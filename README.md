@@ -60,15 +60,14 @@ Make sure you have the following prerequisites installed:
 
 Continue with similar sections for "Technologies Used," "Project Structure," "Database Setup," "Usage," "Contributing," and "License." Add details specific to your project under each section.
 
-## Technologies Used
 
-``markdown
 ## Technologies Used
 
 - ASP.NET Core
 - .NET 6
 - MVC (Model-View-Controller) Architecture
 - Entity Framework Core (for database operations)
+- Doker
 - ...
 
 ## Database Setup
